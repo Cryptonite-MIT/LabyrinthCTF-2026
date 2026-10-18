@@ -1,0 +1,41 @@
+## Hello World
+
+```
+"Hello World!" INSPECT
+```
+
+## Hello User
+
+```
+"Hello " DRAFT TIE INSPECT
+```
+
+## Reverse
+
+```
+DRAFT REVERSE INSPECT
+```
+
+## Palindrome
+
+```
+DRAFT DOUBLE REVERSE DYE INSPECT
+```
+
+## Print Input
+
+```
+DRAFT DRAFT CROSS INSPECT INSPECT
+```
+
+## Reverse Halves
+
+```
+DRAFT SEVER CROSS TIE INSPECT
+```
+
+## Secret Note
+
+```
+DRAFT "13" SHIFT INSPECT
+```

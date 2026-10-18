@@ -1,0 +1,9 @@
+Dr. Daedalus, one of the top researchers in the field of Artificial Intelligence, was very recently headhunted by the Minos Corporation as their Chief Architect. He was given two commands. Build the perfect digital vault, capable of containing even the most misbehaving programs and maintain absolute secrecy.
+
+However, when Daedalus discovered what the vault was meant to hold, he broke his second command.
+
+He sent us an encrypted transmission warning of Project Minotaur, a dangerous, fully autonomous Artificial General Intelligence developed by those at Minos. Deemed to be too valuable to be put down, yet too dangerous to be left free, they wished to use the vault to bend it to their wills.
+
+Shortly after we received this message, Daedalus vanished without a trace. Before his disappearance, Daedalus managed to leave behind a single backdoor into the network he dubbed The Labyrinth.
+
+Your mission is to break into this Labyrinth, following the digital thread left behind by Daedalus to help you navigate the intricacies of the 3 layer structure. Deliver a deadly payload to its core and slay the Minotaur before it can be unleashed.
